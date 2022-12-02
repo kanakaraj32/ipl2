@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.li {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+  flex-grow: 1;
+}
+.img {
+  height: 200px;
+  width: 200px;
+}
+.cont {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  border: 2px #ffffff;
+  width: 550px;
+  flex-wrap: wrap;
+}
